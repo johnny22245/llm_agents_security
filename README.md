@@ -7,6 +7,7 @@ This LLM agents deals with establishing AI security and safety.
 2. Use Weather API key and store it in file ai_safety_security/weather_api_key.key
 3. Register with https://geocode.maps.co for API to access latitude and longitude data (required for weather check)
 4. Use Geocode API and store it in file ai_safety_security/geo_api_key.key
+5. Also update the gpt api key from open ai in OAI_CONFIG_LIST.json
 
 # Run main.py file:
 You can run this file and ask any questions and feel free to share any personal data.
